@@ -1,0 +1,55 @@
+body{
+    background-color: rgb(249, 249, 101);
+    border: 2px solid black;
+    text-align: center;
+}
+
+h1{
+    color:rgb(24, 24, 24);
+    background-color: rgb(135, 88, 255);
+    text-align: center;
+    border: 2px solid black;
+}
+
+#textcolor{
+    color:rgb(24, 24, 24);
+}
+
+
+.highlight{
+    background-color:darkolivegreen;
+    border: 2px solid black;
+}
+
+div.secondiv p{
+    background-color: rgb(61, 131, 97);
+}
+
+
+section:hover{
+    background-color: rgb(61, 131, 97);
+}
+
+section{
+    background-color: rgb(214, 205, 164);
+    color: rgb(24, 24, 24);
+    border: 2px solid black;
+}
+
+hgroup:hover{
+    background-color: rgb(63, 114, 175);
+    
+}
+
+
+.features{
+    text-align: left;
+}
+
+nav.alignment{
+    text-align: left;
+}
+
+footer{
+    color: black;
+}
